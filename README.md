@@ -1,6 +1,6 @@
 # Segmentation
 
-This repository contains tensorflow implemenation of two models for semantic segmentations known to give high accuracy:
+This repository contains tensorflow implementation of two models for semantic segmentations known to give high accuracy:
 
 * **U-net** (https://arxiv.org/abs/1505.04597) : The network can be found in [u_net.py](./u_net.py). Here is the architecture which I have borrowed from the paper :
 ![unet](./misc/unet.png)
